@@ -1,0 +1,49 @@
+﻿0 Tornado
+1 Tempestade Tropical
+2 Furacão
+3 Tempestades intensas
+4 Tempestade com raios e trovões
+5 Chuva com neve
+6 Chuva com granizo
+7 Neve com granizo
+8 Garoa gelada
+9 Chuvisco
+10 Chuva gelada
+11 Pancadas de chuva
+12 Pancadas de chuva
+13 Flocos de neve
+14 Pancadas leves de neve
+15 Correntes de ar com neve
+16 Neve
+17 Granizo
+18 Granizo
+19 Poeira
+20 Nevoento
+21 Neblina
+22 Esfumaçado
+23 Ventos fortes
+24 Ventando
+25 Frio
+26 Nublado
+27 Bastante nublado (noite)
+28 Bastante nublado (dia)
+29 Parcialmente nublado (noite)
+30 Parcialmente nublado (dia)
+31 Céu limpo (noite)
+32 Ensolarado
+33 Noite estrelada(night)
+34 Dia ensolarado e agradável
+35 Chuva com granizo
+36 Quente
+37 Tempestades isoladas
+38 Tempestades dispersas
+39 Tempestades dispersas
+40 Pancadas de chuva dispersas
+41 Neve intensa
+42 Pancadas de neve dispersas
+43 Neve intensa
+44 Parcialmente nublado
+45 Pancadas de chuva
+46 Pancadas de neve
+47 Pancadas de chuva isoladas
+3200 Indisponível

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Blend for Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HL.YahooWeather", "HL.YahooWeather\HL.YahooWeather.csproj", "{4F657962-C769-4068-A7FF-A7A68F451919}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yahoo Weather WPF DEMO", "Yahoo Weather WPF DEMO\Yahoo Weather WPF DEMO.csproj", "{BA3995A7-B311-42D6-9D7A-4B8924EA8CEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F657962-C769-4068-A7FF-A7A68F451919}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F657962-C769-4068-A7FF-A7A68F451919}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F657962-C769-4068-A7FF-A7A68F451919}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F657962-C769-4068-A7FF-A7A68F451919}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA3995A7-B311-42D6-9D7A-4B8924EA8CEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA3995A7-B311-42D6-9D7A-4B8924EA8CEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA3995A7-B311-42D6-9D7A-4B8924EA8CEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA3995A7-B311-42D6-9D7A-4B8924EA8CEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F5A2F0-C0AF-4FE7-A098-A82BC984E610}
+	EndGlobalSection
+EndGlobal
