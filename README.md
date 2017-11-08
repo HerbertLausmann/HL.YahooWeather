@@ -25,3 +25,6 @@ This library is written for .NET CORE/STANDARD 2.0!
 >Runs on Windows, macOS and Linux; can be ported to other operating systems. The supported Operating Systems (OS), CPUs and application scenarios will grow over time, provided by Microsoft, other companies, and individuals.
 
 I hope you find this Library useful!
+
+### Fala português?? Chega mais e dá uma olhada na postagem sobre essa API no meu blog:
+[.NET CORE: API DE PREVISÃO DO TEMPO – YAHOO WEATHER](https://herbertdotlausmann.wordpress.com/2017/11/07/net-core-api-de-previsao-do-tempo-yahoo-weather/)
